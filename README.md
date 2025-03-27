@@ -20,7 +20,7 @@ By the way this is not my Official (or Real) Github Profile.
 ![Databases](https://img.shields.io/badge/Databases-FFA500?style=flat&logo=database&logoColor=white)
 
 ##  GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&count_private=true)](https://github.com/YOURUSERNAME)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PushpkGoat&show_icons=true&theme=radical&count_private=true)](https://github.com/YOURUSERNAME)
 
 ##  Let's Connect
 Currently I dont have any social to connect so yeah.
